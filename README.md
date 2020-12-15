@@ -1,6 +1,5 @@
 ## PyJsonDB
 
-![img](https://github.com/pranavbaburaj/pyjsondb/blob/main/logo.png)
 
 ### **How to use it?**
 ```python
